@@ -1,9 +1,9 @@
 {
-  "name": "redux-normalizr-middleware",
+  "name": "redux-normalizr3-middleware",
   "version": "2.0.0",
   "description": "Combines redux middleware and normalizr to make flattening nested data a snap",
   "main": "lib.js",
-  "repository": "github:wbinnssmith/redux-normalizr-middleware",
+  "repository": "github:investtools/redux-normalizr-middleware",
   "files": [
     "README.md",
     "lib.js"
